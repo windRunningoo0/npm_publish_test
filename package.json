@@ -1,0 +1,24 @@
+{
+  "name": "xl_test",
+  "version": "0.0.1",
+  "description": "brace's first published package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windRunningoo0/npm_publish_test.git"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "test"
+  ],
+  "author": "Brace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windRunningoo0/npm_publish_test/issues"
+  },
+  "homepage": "https://github.com/windRunningoo0/npm_publish_test#readme"
+}
